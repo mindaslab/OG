@@ -1,0 +1,21 @@
+body{
+	background: black;
+}
+
+#block{
+	text-align:center;
+}
+
+#controls{
+	margin-top: 20px;
+	padding-top: 10px;
+	border-top: 3px solid #FF7700;
+}
+
+#grid img{
+	margin: 5px;
+}
+
+#controls img{
+	margin: 10px;
+}
